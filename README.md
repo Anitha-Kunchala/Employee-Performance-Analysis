@@ -26,10 +26,9 @@
 ### 5. Dashboard:
 
 
+-https://github.com/Anitha-Kunchala/Employee-Performance-Analysis/blob/main/Screenshot%202025-08-01%20165250.png
 
 
-
-<img width="609" height="342" alt="Screenshot 2025-07-04 200559" src="https://github.com/user-attachments/assets/76bcabbf-03f9-4831-bef3-6fa33fb3cb2c" />
 
 
 ### 6.Project Insight:
