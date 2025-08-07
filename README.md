@@ -26,8 +26,8 @@
 ### 5. Dashboard:
 
 
--https://github.com/Anitha-Kunchala/Employee-Performance-Analysis/blob/main/Screenshot%202025-08-01%20165250.png
 
+<a href= "https://github.com/Anitha-Kunchala/Employee-Performance-Analysis/blob/main/INX_Future_Inc_Employee_Performance_Data.xls.xlsx">view Dashboard </a>
 
 
 
