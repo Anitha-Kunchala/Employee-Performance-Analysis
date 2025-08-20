@@ -27,7 +27,7 @@
 
 
 
-<a href= "https://github.com/Anitha-Kunchala/Employee-Performance-Analysis/blob/main/Screenshot%202025-08-01%20165250.png">view Dashboard </a>
+<a href= "https://github.com/Anitha-Kunchala/Employee-Performance-Analysis/blob/main/Screenshot%202025-08-20%20130640.png">view Dashboard </a>
 
 
 
